@@ -1,0 +1,165 @@
+body {
+	font-family: Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+	color: #000000;
+	min-width: 830px;
+}
+
+a{
+	text-decoration: none;
+}
+.clearfix:after {
+	content:'';
+	display: table;
+	width: 100%;
+	clear: both;
+}
+
+div {
+	box-sizing: border-box;
+}
+.container {
+	width: 830px;
+	margin: 0 auto;
+}
+
+header{
+	height: 11.5vh;
+	background-color: #000000;
+	color: #fff;
+}
+
+header img{
+	float:left;
+	
+}
+
+nav {
+	float: right;
+	margin-top: 35px;
+	margin-right: 25px;
+}
+
+.menu {
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+
+.menu li {
+	float: left;
+	display: block;
+	margin-right: 41px;
+}
+
+.menu a {
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+
+.main_page_info{
+	background-color: #101F2C;
+	height: 88.5vh;
+}
+
+.title{
+	color:#fff;
+	text-transform: uppercase;
+}
+
+.photos{
+	margin-left: 100px;
+	margin-top: 30px;
+}
+
+.strelka{
+	margin-top: 20px;
+	margin-left: 365px;
+}
+
+.coll{
+	height: 90vh;
+
+}
+
+.coll h1{
+	text-transform: uppercase;
+	margin-top: 60px;
+	font-size: 30px;
+}
+
+.for_student{
+	height: 100vh;
+}
+
+.for_student{
+	text-transform: uppercase;
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+.coronavirus_info{
+	margin-top: 370px;
+}
+
+.social_friend{
+	height: 90vh;
+}
+
+.social_friend h1{
+	text-transform: uppercase;
+	font-size: 30px;
+	margin-top: 40px;
+}
+
+.social_friend p{
+	margin-left: 30px;
+}
+
+.zavod1{
+	margin-left: 30px;
+}
+
+.photos2{
+	margin-left: 55px;
+}
+
+.map{
+	height: 60vh;
+}
+
+.map h1{
+	font-size: 30px;
+	text-transform: uppercase;
+	margin-top: -140px;
+}
+
+.mapka{
+	width: 100%;
+}
+
+.numbers{
+	width: 100%;
+}
+
+footer{
+	height: 30vh;
+	background-color: #282828;
+	margin-top: 300px;
+	text-transform: uppercase;
+	color: #fff;
+}
+
+.dev{
+	margin-top: 45px;
+	float: left;
+	font-size: 13px;
+}
+
+.phone{
+	float: right;
+	font-size: 13px;
+	margin-top: 30px;
+}
